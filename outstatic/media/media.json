@@ -1,6 +1,18 @@
 {
   "commit": "",
-  "generated": "2026-05-21T10:00:00.769Z",
+  "generated": "2026-05-21T10:00:06.950Z",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "204088380",
+        "path": "outstatic/content/estatexpert/blog-1-dzhm7ifc-U5NT.jpg"
+      },
+      "alt": "",
+      "filename": "blog-1-dzhm7ifc-U5NT.jpg",
+      "publishedAt": "2026-05-21T10:00:06.949Z",
+      "source": "image1",
+      "type": "image"
+    }
   ]
 }
