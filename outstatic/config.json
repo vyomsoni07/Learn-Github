@@ -1,3 +1,16 @@
 {
-  "mdExtension": "mdx"
+  "mdExtension": "mdx",
+  "media": [
+    {
+      "categories": [
+        "image"
+      ],
+      "input": "outstatic/content/estatexpert",
+      "label": "Image1",
+      "name": "image1",
+      "output": "/images/estatexpert"
+    }
+  ],
+  "publicMediaPath": "images/estatexpert/",
+  "repoMediaPath": "outstatic/content/estatexpert/"
 }
